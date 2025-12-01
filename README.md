@@ -39,8 +39,8 @@
 <tr border="none">
 <td width="50%" align="center">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SandaruHW&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" />
-  <br></br>
+  
+  
   <img title="Streak Stats" alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SandaruHW&theme=tokyonight&hide_border=true" />
 
 </td>
@@ -56,7 +56,7 @@
 ---
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/sandaru-sathsara" target="blank">
+<a href="https://www.linkedin.com/in/sandaru-sathsara-8ab311261" target="blank">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" height="50" width="50" />
 </a>
 <a href="mailto:sandarusathsarahw@gmail.com" target="blank">
