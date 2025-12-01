@@ -40,13 +40,12 @@
 <td width="50%" align="center">
 
   
-  
   <img title="Streak Stats" alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SandaruHW&theme=tokyonight&hide_border=true" />
 
 </td>
-<td width="50%" align="center">
+<td width="70%" align="center">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandaruHW&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"/>
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=SandaruHW&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
 
 </td>
 </tr>
