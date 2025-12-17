@@ -15,11 +15,11 @@
 
 
 
-- 🌱 I’m currently learning **Spring Boot**
+-  I’m currently learning **Spring Boot**
 
-- 🧑‍🎓 I’m an Undergraduate at **University of Moratuwa**
+-  I’m an Undergraduate at **University of Moratuwa**
 
-- 📫 How to reach me **sandarusathsarahw@gmail.com**
+-  How to reach me **sandarusathsarahw@gmail.com**
   
 
 
@@ -39,9 +39,8 @@
 <tr border="none">
 <td width="50%" align="center">
 
+<img title="Streak Stats" alt="Streak" src="https://github-readme-streak-stats-eight.vercel.app?user=SandaruHW&theme=tokyonight&hide_border=true" />
   
-  <img title="Streak Stats" alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SandaruHW&theme=tokyonight&hide_border=true" />
-
 </td>
 <td width="70%" align="center">
 
