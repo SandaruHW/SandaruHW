@@ -15,7 +15,7 @@
 
 
 
--  I’m currently learning **Spring Boot**
+-  I’m currently learning **Python**
 
 -  I’m an Undergraduate at **University of Moratuwa**
 
