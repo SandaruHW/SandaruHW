@@ -68,6 +68,8 @@
 ---
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
+  <a href="https://www.python.org/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" height="50" width="50"/></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" height="50" width="50"/></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" height="50" width="50"/></a>
   <a href="https://nextjs.org/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Light.svg" height="50" width="50"/></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Light.svg" height="50" width="50"/></a>
